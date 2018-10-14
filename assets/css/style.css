@@ -1,0 +1,41 @@
+.navbar-text {
+    Padding: 15px;
+    color: #F8F9FA;
+    background-color: #4aaaa5;
+}
+
+
+body {
+    background: url("../images/background.png");
+}
+
+.profile-pic {
+    float:left;
+    margin-right: 10px;
+}
+
+.footer {
+    bottom: 0;
+    position: fixed;
+    height: 50px;
+    border-top: 8px solid #4aaaa5;
+    background-color: #312424;
+    text-align: center;
+    width: 100%;
+}
+.thumbnail {
+    position: relative;
+
+}
+
+.caption {
+    position: absolute;
+    top: 80%;
+    left: 0;
+    width: 100%;
+    background-color: #4AAAA5; 
+    background-size: cover;
+}
+.button {
+    margin: 10px;
+}
